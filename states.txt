@@ -1,0 +1,11 @@
+State_ID,State_Name,Region,Population,Avg_Temperature,EV_Charging_Stations
+CA,California,West,39538223,70,32000
+NY,New York,Northeast,19453561,55,7000
+TX,Texas,South,29145505,68,13000
+FL,Florida,Southeast,21538187,75,6000
+IL,Illinois,Midwest,12812508,52,3600
+WA,Washington,Northwest,7705281,52,3800
+MA,Massachusetts,Northeast,6892503,51,4000
+OR,Oregon,Northwest,4217737,55,2200
+AZ,Arizona,Southwest,7151502,75,1800
+CO,Colorado,West,5773714,50,3000

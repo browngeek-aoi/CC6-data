@@ -1,0 +1,11 @@
+Driver_License_Number,Eco_Score,Sustainable_Trips,Avg_Trip_Efficiency,Total_Miles_Driven,Fuel_Type,Vehicle_Age,Maintenance_Score,Training_Completed
+DL123456,88,150,92,12000,Electric,3,95,Yes
+DL234567,95,200,97,15000,Hybrid,2,98,Yes
+DL345678,82,100,85,8000,Electric,5,90,No
+DL456789,90,180,94,13500,Hybrid,1,97,Yes
+DL567890,98,250,99,18000,Electric,2,99,Yes
+DL678901,85,130,89,10000,Hybrid,4,92,No
+DL789012,93,190,96,14500,Electric,3,96,Yes
+DL890123,89,160,93,12500,Hybrid,2,94,Yes
+DL901234,84,120,87,9500,Electric,6,91,No
+DL012345,96,220,98,16500,Hybrid,1,98,Yes
